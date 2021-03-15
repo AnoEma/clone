@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/OKXj7i3L+Sa9BwNFQ9hWUke7khzAYJTYqxU8/0a8yuvJa++IUUvp4vihPQY+v8jFOYRUiyCYAUhue0s2zpFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ano emangi\\source\\repos3\\itau-clone\\ItauClone\\ItauClone.iOS\\ItauClone.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ano emangi\\.nuget\\packages\\livesharp\\1.6.59\\livesharp.1.6.59.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\xamarin.communitytoolkit\\1.0.3\\xamarin.communitytoolkit.1.0.3.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\xamarin.communitytoolkit.markup\\1.0.3\\xamarin.communitytoolkit.markup.1.0.3.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

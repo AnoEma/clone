@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PK/rSW0Nbcwi57qPc/TEyN2V5hgKXRKXMPCGf26GhREdJL9InhERtkNqS0J1Z1sr3Xd8OPgjSgbndj/fVwwr3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ano emangi\\source\\repos3\\itau-clone\\ItauClone\\ItauClone\\ItauClone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ano emangi\\.nuget\\packages\\livesharp\\1.6.59\\livesharp.1.6.59.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\xamarin.communitytoolkit\\1.0.3\\xamarin.communitytoolkit.1.0.3.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\xamarin.communitytoolkit.markup\\1.0.3\\xamarin.communitytoolkit.markup.1.0.3.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
